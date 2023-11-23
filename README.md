@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goktrk
+- 👋 Hi, I’m @goktrk/Göktürk
 - 👀 I’m interested in coding, ethical hacking, and developing.
 - 🌱 I’m currently learning "how to code and how to develop."
 - 💞️ I’m looking to collaborate with anyone who has a project or needs help.

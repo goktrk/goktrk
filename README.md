@@ -1,3 +1,8 @@
+<img align="left" src=".gif#gh-dark-mode-only">
+<img align="left" src=".gif#gh-light-mode-only">
+
+
+
 ## Hi there!
 Let me introduce myself! 👋 I’m Göktürk aka @goktrk. 👀 I’m interested in problem solving, coding, and working in a collaborative environment.
 🌱 I’m currently working on python projects, SQL and learning R. 💞️ I’m looking to collaborate with anyone who has a project or needs help.

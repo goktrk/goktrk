@@ -1,5 +1,5 @@
 <img align="left" src=".gif#gh-dark-mode-only">
-<img align="left" src=".gif#gh-light-mode-only">
+<img align="left" src="https://github.com/goktrk/goktrk/blob/82256bbff2cbfd7fd58a711537a1ead7a7d1635a/assets/darksouls_art_white.gif#gh-light-mode-only">
 
 
 

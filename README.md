@@ -1,5 +1,4 @@
-<img align="left" src="https://github.com/goktrk/goktrk/blob/1216225159e5638b0829a201b4f9e80571ea9ace/assets/darksouls_art.gif#gh-dark-mode-only" width="130">
-<img align="left" src="https://github.com/goktrk/goktrk/blob/1216225159e5638b0829a201b4f9e80571ea9ace/assets/darksouls_art.gif#gh-light-mode-only" width="130">
+<img align="left" src="https://github.com/goktrk/goktrk/blob/1216225159e5638b0829a201b4f9e80571ea9ace/assets/darksouls_art.gif" width="130">
 
 <br>
 

@@ -30,6 +30,9 @@ me = Bachelor_Data_Scientist()
 me.say_hi()
 ```
 
+    Welocme to my page!
+
+
 ## Languages & Coding Tools I Know!
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=gold)](#)

@@ -17,7 +17,7 @@ class Bachelor_Data_Scientist:
 
     def _init_(self):
         self.name = "Göktürk Kalender"
-        self.role = "Data Science Student at TU/e and TiU"
+        self.role = "2nd Year Bachelor Data Science Student at TU/e and TiU"
         self.language_spoken = ["gk_TR", "en_US"]
 
     def say_hi(self):

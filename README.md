@@ -8,7 +8,7 @@ Let me introduce myself! 👋 I’m Göktürk aka @goktrk. 👀 I’m interested
 
 <br>
 
-> Shortly, check whats'up below!
+> Shortly, check me out!
 
 ### Who Am I?
 

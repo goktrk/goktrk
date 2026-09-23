@@ -47,5 +47,10 @@ me.say_hi()
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 
 
-## MyFav Projects & Colabs
+## <img width=30 src="https://www.higfly.eu/sites/default/files/gbb-uploads/logo-tue.png" size=85%> Bachelor's Degree Projects (2024-2027)
+| | Project | Description | Role | Tools |
+|--|-----|-------|-----|-----|
+|X|Unleashed|-------|-----|-----|
+
+
 

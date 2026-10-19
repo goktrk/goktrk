@@ -51,6 +51,6 @@ me.say_hi()
 | # | Project | Description | Role | Tools |
 |--|-----|-------|-----|-----|
 |1)|Airline Customer Support Sentiment Analysis via Twitter|This project evaluates the quality of airline customer support by analyzing Twitter conversations, with a primary focus on KLM and comparisons to other airlines. It uses data mining, natural language processing, and sentiment modeling to assess user satisfaction, support efficiency, and conversation outcomes.|Scrum Masters & Developer|Python, NoSQL DB (MongoDB), Jupyter Notebook|
-
+|2)|A Cloud-Connected Intelligence System for Predictive Police Demand Allocation Across England|A cloud connected, intelligence system for decision-support application which provides recommendations for police resource allocation according to crime levels, seasonal trends, and geographic demand|Data Engineer|Python, DuckDB, HuggingFace, SQL, Jupyter Notebooks|
 
 

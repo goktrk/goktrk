@@ -48,9 +48,9 @@ me.say_hi()
 
 
 ## <img width=30 src="https://www.higfly.eu/sites/default/files/gbb-uploads/logo-tue.png" size=85%> Bachelor's Degree Projects (2024-2027)
-| | Project | Description | Role | Tools |
+| # | Project | Description | Role | Tools |
 |--|-----|-------|-----|-----|
-|X|Unleashed|-------|-----|-----|
+|1)|Airline Customer Support Sentiment Analysis via Twitter|This project evaluates the quality of airline customer support by analyzing Twitter conversations, with a primary focus on KLM and comparisons to other airlines. It uses data mining, natural language processing, and sentiment modeling to assess user satisfaction, support efficiency, and conversation outcomes.|Scrum Masters & Developer|Python, NoSQL DB (MongoDB), Jupyter Notebook|
 
 
 
